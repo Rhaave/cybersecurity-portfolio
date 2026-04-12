@@ -1,5 +1,3 @@
-# cybersecurity-portfolio-
-Labs, incident reports, and security analyses
 # Cybersecurity Portfolio — Kacper Wiszniewski
 
 Security analyst portfolio showcasing hands-on projects from Google Cybersecurity Professional Certificate and independent labs.
